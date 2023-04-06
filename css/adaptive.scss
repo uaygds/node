@@ -1,0 +1,39 @@
+@media (max-width: 840px){
+
+    body {
+        padding-top: 10% !important;
+    }
+
+    .main {
+        flex-direction: column;
+    }
+
+    
+    .aside{
+
+
+
+        margin-bottom: 30px;
+    }
+
+    .title {
+        width: 100px;
+        position: absolute;
+        top: 550px;
+        left: 80px;
+
+    }
+}
+
+@media (max-width:605px){
+    body {
+            width: 100wh;
+            padding: 10% 25%!important;
+    }
+    
+    .aside {
+        margin-right: 0px!important;
+        width: 100% !important;
+    }
+
+}

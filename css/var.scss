@@ -1,0 +1,9 @@
+
+$black: #010624;
+$blue: #A1C4FD;
+
+@mixin flex_between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
